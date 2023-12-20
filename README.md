@@ -10,9 +10,9 @@ Wondering Weather is a web application that displays current weather data using 
 - [Running the Application](#running-the-application)
 - [Running Tests](#running-tests)
 - [API Endpoints](#api-endpoints)
+- [KJavascript Libraries](#javascript-libraries)
 - [Known Bugs](#known-bugs)
 - [Future Development Roadmap](#future-development-roadmap)
-- [Javascript Libraries](#Javascript Libraries)
 
 ## Installation
 
@@ -43,6 +43,9 @@ we never set up any tests to test this application.
 
 Both APIs are related to data to showcase current weather data nationally and of a specific city. 
 
+## Javascript Libraries
+
+    We utilized [Chart.js](https://www.chartjs.org/) in order to make the visualizations. 
 
 ## Known Bugs
 There are issues with displaying the table of our connected database. 
@@ -76,9 +79,7 @@ There are issues with displaying the table of our connected database.
     Data Export
         - Implement a feature that allows users to export weather data and charts in common formats such as CSV or PDF.
 
-### Javascript Libraries
 
-    We utilized [Chart.js](https://www.chartjs.org/) in order to make the visualizations. 
 
 
 Extra Credit: added CSS animations on both pages!
