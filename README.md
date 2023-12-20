@@ -10,7 +10,7 @@ Wondering Weather is a web application that displays current weather data using 
 - [Running the Application](#running-the-application)
 - [Running Tests](#running-tests)
 - [API Endpoints](#api-endpoints)
-- [KJavascript Libraries](#javascript-libraries)
+- [Javascript Libraries](#javascript-libraries)
 - [Known Bugs](#known-bugs)
 - [Future Development Roadmap](#future-development-roadmap)
 
