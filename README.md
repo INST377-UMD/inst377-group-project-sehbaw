@@ -45,7 +45,7 @@ Both APIs are related to data to showcase current weather data nationally and of
 
 ## Javascript Libraries
 
-    We utilized [Chart.js](https://www.chartjs.org/) in order to make the visualizations. 
+    We utilized Chart.js in order to make the visualizations. 
 
 ## Known Bugs
 There are issues with displaying the table of our connected database. 
